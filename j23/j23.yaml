@@ -1,0 +1,17 @@
+artist: Unknown
+generation_length: 1
+genre: Metalcore
+genre_for_upsampling_center_channel: Rock
+genre_for_upsampling_left_channel: Metal
+genre_for_upsampling_right_channel: Metalcore
+lyrics: "Drown!\n\nI can\u2019t breathe, I\u2019m drowning in my own despair\nAnd\
+  \ all I see is darkness closing in\n\nSo confused as I am gasping for air\nBut it\u2019\
+  s not enough\u2026\n\nDrown! Such an easy way out\nDrown! Let the water take me\n\
+  Drown! Alifetime of struggle\nWashed away into abyss\n\nDrown! Have you ever felt\
+  \ this?\nDrown! When all you want to do is\nDrown! Let the sea consume you\nAnd\
+  \ take you away from this place"
+n_samples: 1
+preview_just_the_last_n_sec: null
+sample_tree: j23-Ajax
+show_leafs_only: false
+temperature: 0.97
