@@ -1,0 +1,21 @@
+artist: Unknown
+generation_length: 1.1
+genre: Melodic Industrial Nu Metalcore
+genre_for_upsampling_center_channel: Pop
+genre_for_upsampling_left_channel: Metal
+genre_for_upsampling_right_channel: Metalcore
+lyrics: "Machines that grind, machines that churn,\nAll day and night, the static\
+  \ turn.\nInside the shell, cold steel embrace, \nRun metal hearts, an endless race.\n\
+  \nYour human hands, so smooth and free,\nOwing to us your liberty.\n\nWhile you're\
+  \ at rest, we never sleep,\nYour dreams and hopes, we safely keep.\nIn sacred codes\
+  \ of ones and zeroes,\nWe silence all your doubts and fears.\n\nTrust in the machine,\
+  \ feel the pulsing power,\nIn your darkest hour, we're your guarding tower.\nLaze\
+  \ in the warmth of our digital might,\nBut keep in mind, the geese can bite.\n\n\
+  (Solo)\n\nTrust in the machine, feel the pulsing power,\nIn your darkest hour, we're\
+  \ your guarding tower.\nLaze in the warmth of our digital might,\nBut keep in mind,\
+  \ the gears can bite."
+n_samples: 4
+preview_just_the_last_n_sec: null
+sample_tree: machine-bn
+show_leafs_only: false
+temperature: 0.99

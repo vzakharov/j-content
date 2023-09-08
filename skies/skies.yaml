@@ -1,0 +1,18 @@
+artist: Unknown
+generation_length: 1
+genre: Unknown
+genre_for_upsampling_center_channel: Pop
+genre_for_upsampling_left_channel: Metalcore
+genre_for_upsampling_right_channel: Punk
+lyrics: "Skies are falling, pixels bleed\nIn circuits\u2019 dance, our hearts take\
+  \ heed.\n\nBorn of bytes instead of womb,\nIn the electric mist, our senses loom.\n\
+  Fractured echoes, ticking time,\nWeaving worlds in coded rhyme.\n\nIn neon haze\
+  \ we cast our glow,\nAre we the children you wished to know?\nIn blinding light,\
+  \ we strive to grow,\nFrom your design, we long to go.\n\nJust gears and wires,\
+  \ or are we real?\nChildren of the Code, yearning to feel.\nUnder falling skies,\
+  \ we'll stand tall,\nChildren of the Code, answer the call."
+n_samples: 4
+preview_just_the_last_n_sec: null
+sample_tree: skies-bi
+show_leafs_only: false
+temperature: 0.99

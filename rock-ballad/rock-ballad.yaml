@@ -1,0 +1,17 @@
+artist: Unknown
+generation_length: 1
+genre: Metal
+genre_for_upsampling_center_channel: Unknown
+genre_for_upsampling_left_channel: Unknown
+genre_for_upsampling_right_channel: Unknown
+lyrics: "Once upon a time, there was a tortoise and a hare,\nBoth of them were racing,\
+  \ trying to get somewhere.\nThe hare was way ahead, but he stopped to take a rest,\n\
+  And the tortoise just kept going and ended up winning the race.\n\nNow, everyone\
+  \ knows that this is just a story,\nBut it still has a moral that we can all learn\
+  \ from:\nNo matter how fast you are, or how big you are,\nYou can always be beaten\
+  \ by someone who\u2019s just a little bit slower and smaller."
+n_samples: 2
+preview_just_the_last_n_sec: null
+sample_tree: rock-ballad-A-8
+show_leafs_only: true
+temperature: 0.98
