@@ -1,0 +1,10 @@
+artist: The Prodigy
+generation_length: 3
+genre: Unknown
+lyrics: ''
+n_samples: 2
+preview_just_the_last_n_sec: null
+sample_tree: j2-H-2
+show_leafs_only: true
+stage_selector: 1
+temperature: 0.99

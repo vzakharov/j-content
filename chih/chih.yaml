@@ -1,0 +1,12 @@
+artist: The Prodigy
+generation_length: 1
+genre: Metal
+genre_for_upsampling_center_channel: Folk
+genre_for_upsampling_left_channel: Metal
+genre_for_upsampling_right_channel: Electronic
+lyrics: ''
+n_samples: 2
+preview_just_the_last_n_sec: null
+sample_tree: chih-Ace-4-1-2-1-2-3
+show_leafs_only: true
+temperature: 0.98

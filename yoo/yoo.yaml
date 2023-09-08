@@ -1,0 +1,12 @@
+artist: Unknown
+generation_length: 0.5
+genre: Unknown
+genre_for_upsampling_center_channel: Unknown
+genre_for_upsampling_left_channel: Unknown
+genre_for_upsampling_right_channel: Unknown
+lyrics: ''
+n_samples: 2
+preview_just_the_last_n_sec: 0.0
+sample_tree: yoo-2-4
+show_leafs_only: false
+temperature: 0.98
