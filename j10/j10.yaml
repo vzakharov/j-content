@@ -1,0 +1,12 @@
+artist: The Offspring
+generation_length: 0.5
+genre: Punk
+genre_for_upsampling_center_channel: Unknown
+genre_for_upsampling_left_channel: Unknown
+genre_for_upsampling_right_channel: Unknown
+lyrics: "Go go go go go go go go\u2026"
+n_samples: 3
+preview_just_the_last_n_sec: 15.0
+sample_tree: j10-3-1-3-3-3-1-1-1-1-3-4-1-1-1
+show_leafs_only: true
+temperature: 0.9
