@@ -1,0 +1,12 @@
+artist: Unknown
+generation_length: 1
+genre: Progressive Rock
+genre_for_upsampling_center_channel: Pop
+genre_for_upsampling_left_channel: Metal
+genre_for_upsampling_right_channel: Metalcore
+lyrics: Thanatos
+n_samples: 4
+preview_just_the_last_n_sec: null
+sample_tree: machine-bn
+show_leafs_only: false
+temperature: 0.99
