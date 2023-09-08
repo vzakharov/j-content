@@ -1,0 +1,30 @@
+artist: Unknown
+generation_length: 1
+genre: Unknown
+genre_for_upsampling_center_channel: Pop
+genre_for_upsampling_left_channel: Metal
+genre_for_upsampling_right_channel: Rock
+lyrics: 'Gliding ''cross the edge of darkness, dancing with the devil''s hand,
+
+  Let the reaper play his music, as they strike the final plan,
+
+  In this world of devastation, crumbling ruins all around,
+
+  Embrace the soothing chaos, as we tango to its sound.
+
+
+  Disintegration Tango, dance with me tonight,
+
+  As the earth around us shatters beneath the pale moonlight,
+
+  Our heartbeats intertwining through the flames and smoke,
+
+  We''ll twirl among the embers until the final note.
+
+
+  (end)'
+n_samples: 4
+preview_just_the_last_n_sec: null
+sample_tree: tango-ale-4
+show_leafs_only: false
+temperature: 0.985
