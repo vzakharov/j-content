@@ -1,0 +1,43 @@
+artist: Korpiklaani
+generation_length: 1
+genre: Folk Metal
+genre_for_upsampling_center_channel: Pop
+genre_for_upsampling_left_channel: Metal
+genre_for_upsampling_right_channel: Rock
+lyrics: 'Raise your horns and stomp your feet,
+
+  A new adventure''s here to greet,
+
+  Gather round, you rowdy lot,
+
+  For the tune that time forgot.
+
+
+  Tales of woe and battles won
+
+  We''ll sing from dusk till morning sun.
+
+  Here we go, our time has come!
+
+
+  We''re back, we''re back, oh-oh-oh-oh,
+
+  Sing it loud, let it echo-cho,
+
+  We''re back, we''re back, we''re here to stay,
+
+  Dance and drink the night away!
+
+
+  Back, we''re back, hey-hey-hey-hey,
+
+  Sing it proudly, let it sway,
+
+  Back, we''re back, so don''t just stand,
+
+  Dance and cheer throughout the land!'
+n_samples: 4
+preview_just_the_last_n_sec: null
+sample_tree: we-re-back-ape-19-2-3
+show_leafs_only: true
+temperature: 0.995
