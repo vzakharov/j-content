@@ -1,0 +1,11 @@
+artist: Unknown
+generation_length: 1
+genre: Punk
+lyrics: "We\u2019re on the road to nowhere\nAnd we\u2019re taking it day by day\n\
+  We\u2019re living for the moment\nAnd we\u2019re just trying to get away"
+n_samples: 2
+preview_just_the_last_n_sec: null
+sample_tree: j1-A-2-1-2-3
+show_leafs_only: true
+stage_selector: 0
+temperature: 0.98

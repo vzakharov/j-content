@@ -1,0 +1,12 @@
+artist: Unknown
+generation_length: 1
+genre: Hardcore
+genre_for_upsampling_center_channel: Unknown
+genre_for_upsampling_left_channel: Unknown
+genre_for_upsampling_right_channel: Unknown
+lyrics: ''
+n_samples: 3
+preview_just_the_last_n_sec: 10.0
+sample_tree: j6-4-3
+show_leafs_only: true
+temperature: 0.98
