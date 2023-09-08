@@ -1,0 +1,46 @@
+artist: Eminem
+generation_length: 1
+genre: Nu
+genre_for_upsampling_center_channel: Unknown
+genre_for_upsampling_left_channel: Unknown
+genre_for_upsampling_right_channel: Unknown
+lyrics: 'Feeling like I''m suffocating
+
+  Trapped in my own mind
+
+  Can''t escape the darkness
+
+  That''s consuming me inside
+
+  I try to find the light
+
+  But it''s always just out of reach
+
+  My thoughts are like a storm
+
+  That''s raging deep inside of me
+
+
+  I''m searching for a way out
+
+  But it feels like there''s no doors
+
+
+  I''m reaching for the stars
+
+  But they keep slipping through my fingers
+
+  I''m screaming for help
+
+  But nobody hears my cries
+
+  I''m trying to break free
+
+  From this prison in my mind
+
+  But the chains keep holding me down.'
+n_samples: 2
+preview_just_the_last_n_sec: null
+sample_tree: j31-Aero-1
+show_leafs_only: false
+temperature: 1.02
