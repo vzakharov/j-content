@@ -1,0 +1,14 @@
+artist: Drake
+generation_length: 1
+genre: Rock
+genre_for_upsampling_center_channel: Pop
+genre_for_upsampling_left_channel: Acoustic
+genre_for_upsampling_right_channel: Metal
+lyrics: "Open your arms now\nAnd let me step inside\nI need your light\nI need your\
+  \ warmth\n\nUnder the cold clouds\nWhere everybody's blind\nYou\u2019ll be my guide\n\
+  And I\u2019ll be yours\n\nSo come with me...\nInto the night"
+n_samples: 2
+preview_just_the_last_n_sec: null
+sample_tree: j26-Ajax-3
+show_leafs_only: false
+temperature: 1.05
