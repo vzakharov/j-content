@@ -1,0 +1,9 @@
+artist: The Offspring
+generation_length: 1.2
+genre: Punk
+lyrics: ''
+n_samples: 2
+preview_just_the_last_n_sec: 20.0
+sample_tree: j4-prime-1-3
+show_leafs_only: true
+temperature: 0.98
