@@ -1,0 +1,23 @@
+artist: Unknown
+generation_length: 3
+genre: Unknown
+genre_for_upsampling_center_channel: Vocal
+genre_for_upsampling_left_channel: Metal
+genre_for_upsampling_right_channel: Metalcore
+lyrics: 'You are the shadow in the corner of our eye,
+
+  The dark passenger that we all ignore.
+
+  We try so hard to keep you locked inside,
+
+  But you break free and come to claim what''s yours.
+
+
+  Yours are the fears we can''t admit,
+
+  Erebos, do we fight you or submit?'
+n_samples: 4
+preview_just_the_last_n_sec: 110.0
+sample_tree: erebos-ajo
+show_leafs_only: false
+temperature: 0.985

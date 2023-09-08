@@ -1,0 +1,26 @@
+artist: Unknown
+generation_length: 1
+genre: Folk
+genre_for_upsampling_center_channel: Folk
+genre_for_upsampling_left_channel: Electronic
+genre_for_upsampling_right_channel: Eurodance
+lyrics: 'I watch the sun go up
+
+  Or is it the sun watching me?
+
+  As the light grows bright and clear
+
+  The shadows start to disappear
+
+  I see the colors in the sky
+
+  I know that they are meant for me
+
+  And in the silence of the dawn
+
+  I hear the music of the spheres'
+n_samples: 2
+preview_just_the_last_n_sec: 5.0
+sample_tree: j30-Ace-2
+show_leafs_only: false
+temperature: 1.025
