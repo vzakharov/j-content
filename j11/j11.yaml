@@ -1,0 +1,32 @@
+artist: Unknown
+generation_length: 1
+genre: Metal
+genre_for_upsampling_center_channel: Pop
+genre_for_upsampling_left_channel: Metal
+genre_for_upsampling_right_channel: Rock
+lyrics: 'I feel the weight of the world bearing down on me
+
+  Every day is a struggle just to keep on breathing
+
+  I try to hold on but I feel myself slipping
+
+  Into the darkness where the demons play
+
+  Their wicked games
+
+
+  But when I see your smile it''s like a burst of sunlight
+
+  Breaking through the clouds in my mind
+
+  My hope when I am lost in the dark night
+
+  And I''ll fight to keep you safe
+
+
+  (solo)'
+n_samples: 1
+preview_just_the_last_n_sec: 1.0
+sample_tree: j11-6-1
+show_leafs_only: false
+temperature: 0.98
