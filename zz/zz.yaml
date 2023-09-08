@@ -1,0 +1,9 @@
+artist: Zz Top
+generation_length: 1
+genre: Metalcore
+lyrics: ''
+n_samples: 3
+preview_just_the_last_n_sec: 0.0
+sample_tree: zz-B-2-3-3-1-3-3
+show_leafs_only: false
+temperature: 1
