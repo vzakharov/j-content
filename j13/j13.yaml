@@ -1,0 +1,12 @@
+artist: The Ink Spots
+generation_length: 1
+genre: Unknown
+genre_for_upsampling_center_channel: Unknown
+genre_for_upsampling_left_channel: Unknown
+genre_for_upsampling_right_channel: Unknown
+lyrics: ''
+n_samples: 4
+preview_just_the_last_n_sec: null
+sample_tree: j25-Ace
+show_leafs_only: true
+temperature: 0.985

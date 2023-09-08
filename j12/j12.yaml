@@ -1,0 +1,12 @@
+artist: Therion
+generation_length: 1
+genre: Unknown
+genre_for_upsampling_center_channel: Symphonic
+genre_for_upsampling_left_channel: Metal
+genre_for_upsampling_right_channel: Thrash
+lyrics: Metal
+n_samples: 2
+preview_just_the_last_n_sec: null
+sample_tree: j12-Aka
+show_leafs_only: true
+temperature: 0.985
