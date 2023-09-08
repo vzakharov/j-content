@@ -1,0 +1,16 @@
+artist: Halestorm
+generation_length: 1
+genre: Metalcore
+genre_for_upsampling_center_channel: Pop
+genre_for_upsampling_left_channel: Metal
+genre_for_upsampling_right_channel: Rock
+lyrics: 'No hesitation and no regrets
+
+  So out of control and off the edge
+
+  Why can''t I just stop it?'
+n_samples: 2
+preview_just_the_last_n_sec: 0.0
+sample_tree: primedemo-C
+show_leafs_only: false
+temperature: 0.99
