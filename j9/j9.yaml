@@ -1,0 +1,15 @@
+artist: Unknown
+generation_length: 1
+genre: Metalcore
+genre_for_upsampling_center_channel: Rap
+genre_for_upsampling_left_channel: Metal
+genre_for_upsampling_right_channel: Metalcore
+lyrics: "Guess who?.. Guess who?..\nGuess who\u2019s one metal girl in the rap game?\n\
+  Guess who\u2019s been spitting fire and taking aim?\nGuess who\u2019s about to show\
+  \ you how she gets things done?\nI\u2019m the one, I\u2019m the one, yo I\u2019\
+  m the one "
+n_samples: 2
+preview_just_the_last_n_sec: null
+sample_tree: j9-Aux-1-5-3-1
+show_leafs_only: false
+temperature: 0.985
