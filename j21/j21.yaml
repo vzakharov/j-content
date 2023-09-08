@@ -1,0 +1,15 @@
+artist: Sum 41
+generation_length: 3
+genre: Punk
+genre_for_upsampling_center_channel: Pop
+genre_for_upsampling_left_channel: Punk
+genre_for_upsampling_right_channel: Grunge
+lyrics: "In the room with tainted walls\u2026\n\nIn the room with tainted walls\n\
+  I\u2019m thinking about it all \nHow I wish I\u2019d never let you go\n\nNow I\u2019\
+  m wide awake in bed \nThinking about the things we could\u2019ve had  \nThe same\
+  \ words ringing in my head:\nWhat if you..."
+n_samples: 1
+preview_just_the_last_n_sec: 20.0
+sample_tree: j21-Aux-1-2-2
+show_leafs_only: false
+temperature: 0.975
